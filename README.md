@@ -2,6 +2,5 @@
 
 ## Descrição
 
-AluGames é um projeto de simples para aluguel de jogos.
+AluGames é um projeto simples de aluguel de jogos.
 
-]
